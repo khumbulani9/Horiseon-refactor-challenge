@@ -22,7 +22,6 @@ https://khumbulani9.github.io/Horiseon-refactor-challenge/#online-reputation-man
 
 ## Website Page Screenshot
 
-
 ## Contact
 https://github.com/khumbulani9 
 
