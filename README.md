@@ -7,15 +7,15 @@ Businesses are now in desperate need for web accessibility due to the fact that 
 ## Acceptance Criteria
 The aspects of web accessibility are crucial and highly beneficial for many people who unfortunately have disabillties and who may need the help using the horiseon website and many other different app users. To ensure that this is implemented, accessibility standards must be achieved.
 
- Semantic HTML elements can be found throughout the source code
+* Semantic HTML elements can be found throughout the source code
 
-HTML elements follow a logical structure independent of styling and positioning
+* HTML elements follow a logical structure independent of styling and positioning
 
-Image and icon elements contain accessible alt attributes
+* Image and icon elements contain accessible alt attributes
 
-Heading attributes fall in sequential order
+* Heading attributes fall in sequential order
 
-Title elements contain a concise, descriptive title
+* Title elements contain a concise, descriptive title
 
 ## Website Link
 https://khumbulani9.github.io/Horiseon-refactor-challenge/#online-reputation-management
