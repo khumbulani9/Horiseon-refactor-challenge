@@ -17,12 +17,6 @@ Heading attributes fall in sequential order
 
 Title elements contain a concise, descriptive title
 
-
-
-
-
-
-
 ## Website Link
 https://khumbulani9.github.io/Horiseon-refactor-challenge/#online-reputation-management
 
