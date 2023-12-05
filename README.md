@@ -26,7 +26,6 @@ The aspects of web accessibility are crucial and highly beneficial for many peop
 
 * Title elements contain a concise, descriptive title
 
-<<<<<<< HEAD
 ## website Link
 https://khumbulani9.github.io/Horiseon-refactor-challenge/#online-reputation-management
 
@@ -34,18 +33,16 @@ https://khumbulani9.github.io/Horiseon-refactor-challenge/#online-reputation-man
 ## Website Page Screenshot
 ![Horiseon-Webpage](C:\Users\MKJubane\Assignment\Horiseon-refactor-challenge\assets\01-html-css-git-challenge-demo.png) 
 
-## Contact
-=======
  ## Link URL to deployed app on GitHub
 
 https://khumbulani9.github.io/Horiseon-refactor-challenge/#online-reputation-management
 
 ## Website Page screenshot link URL to GitHub repository
+
 ![HoriseonScreen](https://github.com/khumbulani9/Horiseon-refactor-challenge/blob/main/01-html-css-git-challenge-demo.png?raw=true) 
 
 ## Contact-link URL to GitHub repository
 
->>>>>>> 21977292d273d2fa84f5bb0c2b20bfc128971c74
 https://github.com/khumbulani9 
 
 
