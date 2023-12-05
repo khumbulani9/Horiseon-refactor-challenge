@@ -5,23 +5,24 @@
 }
 
 body {
-    background-color: #9c9aa1; 
+    background-color: #e0dde6; 
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: rgb(53, 53, 180);
-    color: rgba(57, 8, 193, 0.8)4, 0, 51, 0.8;
+    background-color: rgb(108, 167, 239);
+    color: rgba(200, 197, 208, 0.8)4, 0, 51, 0.8;
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
+    background-color: rgb(108, 167, 239);
 }
 
 .header h1 .seo {
-    color: #789f52;
+    color: #cce2b7;
 }
 
 .header div {
