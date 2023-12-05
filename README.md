@@ -31,7 +31,7 @@ The aspects of web accessibility are crucial and highly beneficial for many peop
 https://khumbulani9.github.io/Horiseon-refactor-challenge/#online-reputation-management
 
 ## Website Page screenshot link URL to GitHub repository
-![HoriseonScreen](https://user-images.githubusercontent.com/16748389/85058961-de2a7780-b170-11ea-9607-506f1524d142.jpeg) 
+![HoriseonScreen]() 
 
 ## Contact-link URL to GitHub repository
 
