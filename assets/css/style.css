@@ -5,14 +5,14 @@
 }
 
 body {
-    background-color: #e5d9d9; 
+    background-color: #9c9aa1; 
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #0b99e0;
-    color: #948d8d;
+    background-color: rgb(53, 53, 180);
+    color: rgba(57, 8, 193, 0.8)4, 0, 51, 0.8;
 }
 
 .header h1 {
@@ -21,7 +21,7 @@ body {
 }
 
 .header h1 .seo {
-    color: #d9dcd6;
+    color: #789f52;
 }
 
 .header div {
@@ -136,7 +136,7 @@ p {
 
 .search-engine-optimization {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 80px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -145,7 +145,7 @@ p {
 
 .online-reputation-management {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 80px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -154,10 +154,10 @@ p {
 
 .social-media-marketing {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 80px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #0989d8;
     color: #ffffff;
 }
 
