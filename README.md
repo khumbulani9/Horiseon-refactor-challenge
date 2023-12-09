@@ -35,12 +35,15 @@ https://khumbulani9.github.io/Horiseon-refactor-challenge/#online-reputation-man
 
 ## Website Page screenshot link URL to GitHub repository
 
+![HoriseonScreen](https://github.com/khumbulani9/Horiseon-refactor-challenge/blob/main/01-html-css-git-challenge-demo.png?raw=true) 
+
 ![HoriseonScreen](![image](https://github.com/khumbulani9/Horiseon-refactor-challenge/assets/146132836/8cc1bd97-bf12-4d66-8e56-2e79589b8c59)
 
 
 ## Contact-link URL to GitHub repository
 
 https://github.com/khumbulani9 
+
 
 
  
